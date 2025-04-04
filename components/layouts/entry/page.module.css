@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  padding: 1rem;
+  /* width: min(95%); */
+  border: 1px, solid #a32342;
+  /* margin: 1rem; */
+  height: 85vh;
+}
+.header {
+  border: 1px, solid #a32342;
+  height: 3rem;
+  display: flex;
+  gap: 2rem;
+}
+.footer {
+  display: grid;
+  height: 15vh;
+  /* width: min(95%); */
+  border: 1px, solid #a32342;
+  /* margin: 1rem; */
+}
